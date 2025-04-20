@@ -1,4 +1,5 @@
-#🏥 HealthCare Analytics
+#🏥 #HealthCare Analytics
+
 This project focuses on designing a dynamic dashboard to visualize and analyze patient wait list data within a healthcare system. The main areas of analysis include:
 
 📊 Wait List Comparison: Comparing current month’s data with figures from the same month in the previous year.
