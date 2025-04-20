@@ -29,4 +29,10 @@ This project focuses on designing a **dynamic dashboard** to **visualize and ana
 - 🔁 ETL (Extract, Transform, Load)  
 - 🧾 SQL  
 - 📉 Statistical Data Analysis  
-- 🧠
+- 🧠 Analytical Thinking  
+- 📊 Microsoft Excel  
+- 🎯 Decision Support
+
+---
+
+> 🚀 This project demonstrates how data analytics can drive actionable insights and improve patient care operations.
