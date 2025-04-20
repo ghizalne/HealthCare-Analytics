@@ -1,32 +1,32 @@
-#🏥 #HealthCare Analytics
+# 🏥 HealthCare Analytics
 
-This project focuses on designing a dynamic dashboard to visualize and analyze patient wait list data within a healthcare system. The main areas of analysis include:
+This project focuses on designing a **dynamic dashboard** to **visualize and analyze patient wait list data** within a healthcare system.
 
-📊 Wait List Comparison: Comparing current month’s data with figures from the same month in the previous year.
+## 📌 Project Highlights
 
-🏷️ Case Type Distribution: Visualizing the breakdown of patients by type of care (outpatient, day case, inpatient).
+- 📊 **Wait List Comparison**  
+  Compare current month’s data with figures from the same month in the previous year.
 
-📈 Monthly Trends Analysis: Identifying variations in case numbers over time.
+- 🏷️ **Case Type Distribution**  
+  Visual breakdown of patient types: *Outpatient, Day Case, Inpatient*.
 
-👥 Patient Profiles: Analyzing patient distribution by age group and medical specialty.
+- 📈 **Monthly Trends Analysis**  
+  Track and analyze changes in case volumes over time.
 
-⏱️ Key Indicators: Highlighting critical metrics, such as average wait times by specialty.
+- 👥 **Patient Profiles**  
+  Study patient demographics by **age group** and **medical specialty**.
 
-🛠️ Skills Used
-📌 Power BI
+- ⏱️ **Key Indicators**  
+  Highlight important metrics like **average wait times by specialty**.
 
-🧮 DAX (Data Analysis Expressions)
+---
 
-🗂️ Data Modeling
+## 🛠️ Skills & Tools
 
-🔁 ETL (Extract, Transform, Load)
-
-🧾 SQL
-
-📉 Statistical Data Analysis
-
-🧠 Analytical Thinking
-
-📊 Microsoft Excel
-
-🎯 Decision Support
+- ⚙️ Power BI  
+- 📐 Data Modeling  
+- 🧮 DAX (Data Analysis Expressions)  
+- 🔁 ETL (Extract, Transform, Load)  
+- 🧾 SQL  
+- 📉 Statistical Data Analysis  
+- 🧠
